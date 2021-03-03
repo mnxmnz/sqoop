@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import divider from '../../assets/icons/Divider.svg';
+import divider from '../../assets/icons/divider.svg';
 import { Link, withRouter } from 'react-router-dom';
 
 const StyledSpan = styled.span`
