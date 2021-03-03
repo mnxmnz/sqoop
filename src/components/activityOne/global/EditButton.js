@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import { useSelector, useDispatch } from 'react-redux';
 import { withRouter } from 'react-router-dom';
-import { ReactComponent as Edit } from '../../../assets/icons/Edit.svg';
+import { ReactComponent as Edit } from '../../../assets/icons/edit.svg';
 import { ReactComponent as Complete } from '../../../assets/icons/Complete.svg';
 import EditApi from '../../../lib/api/activityOne/edit';
 import { setEditMode } from '../../../store/modules/editButton';
