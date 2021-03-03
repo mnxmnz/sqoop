@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import 'antd/dist/antd.css';
 import { Select } from 'antd';
 import filterImg from '../../assets/icons/filter.svg';
-import closeImg from '../../assets/icons/Close.svg';
+import closeImg from '../../assets/icons/close.svg';
 
 const { Option } = Select;
 const StyledSelect = styled(Select)`
