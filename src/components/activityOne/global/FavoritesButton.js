@@ -1,8 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
 import { useSelector, useDispatch } from 'react-redux';
-import { ReactComponent as Star } from '../../../assets/icons/Star.svg';
-import { ReactComponent as StarFill } from '../../../assets/icons/StarFill.svg';
+import { ReactComponent as Star } from '../../../assets/icons/star.svg';
+import { ReactComponent as StarFill } from '../../../assets/icons/starFill.svg';
 import { likeActivity } from '../../../lib/api/activity';
 import { setStar } from '../../../store/modules/detail';
 
