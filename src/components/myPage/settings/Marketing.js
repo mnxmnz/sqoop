@@ -1,6 +1,6 @@
 import React from 'react';
 import Styled from 'styled-components';
-import CheckBox from '../../../assets/icons/CheckBox.svg';
+import CheckBox from '../../../assets/icons/Checkbox.svg';
 import CheckedBox from '../../../assets/icons/CheckedBox.svg';
 
 const QuestionBox = Styled.div`
