@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
-import logoSymbol from '../../assets/icons/LogoSymbol.svg';
-import logoTxt from '../../assets/icons/LogoTxt.svg';
+import logoSymbol from '../../assets/icons/logoSymbol.svg';
+import logoTxt from '../../assets/icons/logoTxt.svg';
 
 const LogoWrap = styled.div`
   display: flex;
