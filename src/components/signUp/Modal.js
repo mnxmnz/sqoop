@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import inputLine from '../../assets/icons/InputLine.svg';
+import inputLine from '../../assets/icons/inputLine.svg';
 
 const ModalBackgorundWrap = styled.div`
   display: ${props => (props.visible ? 'block' : 'none')};
