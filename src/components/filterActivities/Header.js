@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import 'antd/dist/antd.css';
 import { Select } from 'antd';
-import filterImg from '../../assets/icons/Filter.svg';
+import filterImg from '../../assets/icons/filter.svg';
 import closeImg from '../../assets/icons/Close.svg';
 
 const { Option } = Select;
