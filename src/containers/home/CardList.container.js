@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { readCard, unloadCard } from '../../../src/store/modules/cardList';
-import CardItem from '../../components/home/CardItem';
+import CardItem from '../../components/Home/CardItem';
 
 const CardItemContainer = ({ match }) => {
   const { cardId } = match.params;
