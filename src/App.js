@@ -3,7 +3,7 @@ import { BrowserRouter, Route } from 'react-router-dom';
 import Home from './pages/home/home';
 import SignIn from './pages/signin/SignIn';
 import SignUp from './pages/signUp/SignUp';
-import CreateActivity from './pages/createActivity/CreateActivity';
+import CreateActivity from './pages/CreateActivity/CreateActivity';
 import StepCard from './pages/stepCard/StepCard';
 import FilterActivities from './pages/filterActivities/FilterActivities';
 import ActivityOneDefault from './pages/activityOne/ActivityOneDefault';
