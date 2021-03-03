@@ -5,7 +5,7 @@ import SignIn from './pages/signin/SignIn';
 import SignUp from './pages/signUp/SignUp';
 import Email from './pages/findInformation/Email';
 import Password from './pages/findInformation/Password';
-import CreateActivity from './pages/createActivity/CreateActivity';
+import CreateActivity from './pages/CreateActivity/CreateActivity';
 import StepCard from './pages/stepCard/StepCard';
 import FilterActivities from './pages/filterActivities/FilterActivities';
 import ActivityOneDefault from './pages/activityOne/ActivityOneDefault';
