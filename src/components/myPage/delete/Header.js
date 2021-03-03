@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import Close from '../../../assets/icons/closeIcon.svg';
+import Close from '../../../assets/icons/CloseIcon.svg';
 import { Link } from 'react-router-dom';
 
 const MyPageHeader = () => {
