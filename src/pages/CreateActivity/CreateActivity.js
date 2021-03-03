@@ -10,7 +10,7 @@ import SkillTagSelector from '../../containers/createActivity/SkillTagSelector.c
 import Summary from '../../containers/createActivity/Summary.container';
 import Image from '../../containers/createActivity/Image.container';
 import Modal from '../../containers/createActivity/Modal.container';
-import DefaultData from '../../components/createActivity/DefaultData';
+import DefaultData from '../../components/CreateActivity/DefaultData';
 import File from '../../containers/createActivity/File.container';
 import MainHeader from '../../components/common/MainHeader';
 const CreateActivityWrap = styled.div`

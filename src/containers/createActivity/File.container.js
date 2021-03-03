@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { setFile } from '../../store/modules/activity';
 import { setPreviewFile } from '../../store/modules/preview';
-import File from '../../components/createActivity/File';
+import File from '../../components/CreateActivity/File';
 
 const FileContainer = () => {
   const dispatch = useDispatch();

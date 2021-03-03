@@ -2,7 +2,7 @@ import React from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { setVisible } from '../../store/modules/modal';
 import { setID } from '../../store/modules/userCardInfo';
-import Button from '../../components/createActivity/Button';
+import Button from '../../components/CreateActivity/Button';
 import { createActivity } from '../../lib/api/activity';
 
 const ButtonContainer = () => {

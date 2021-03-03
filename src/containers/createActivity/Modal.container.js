@@ -2,7 +2,7 @@ import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { setVisible } from '../../store/modules/modal';
 import { withRouter } from 'react-router-dom';
-import Modal from '../../components/createActivity/Modal';
+import Modal from '../../components/CreateActivity/Modal';
 
 const ModalContainer = ({ history }) => {
   const dispatch = useDispatch();
