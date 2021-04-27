@@ -385,6 +385,10 @@ src
 git clone https://github.com/mnxmnz/sqoop.git
 ```
 
+```sh
+cd sqoop
+```
+
 #### [3] Install Packages
 
 ```sh
@@ -404,4 +408,4 @@ yarn start
 
 ### :link: URL
 
--   [sqoop 바로가기](https://sqoop.co.kr/)
+- [sqoop 바로가기](https://sqoop.co.kr/)
