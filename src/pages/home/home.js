@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import Greeting from '../../components/Home/Greeting';
 import Question from '../../components/Home/Question';
-import AddButton from '../../components/Home/AddButton';
+import AddButton from '../../components/Home/AddButtonn';
 import ActivityTemplate from '../../components/Home/ActivityTemplate';
 import Year from '../../components/Home/Year';
 import MonthScroll from '../../components/Home/MonthScroll';
@@ -22,7 +22,6 @@ const ScrollWrapper = styled.div`
 `;
 
 const CardScroll = styled.div`
-  //background: ivory;
   overflow: auto;
   -ms-overflow-style: none;
   scrollbar-width: none;
@@ -35,7 +34,6 @@ const GreetingWrap = styled.div`
   height: 90vh;
   display: flex;
   flex-direction: column;
-
   .empty {
     flex: 1 1 auto;
   }
