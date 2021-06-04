@@ -18,9 +18,9 @@ export const updateMyPageData = async myPageData => {
         jwt: sessionStorage.getItem('token'),
       },
     });
-    console.log('[SUCCESS] PUT My Page Data');
+    // console.log('[SUCCESS] PUT My Page Data');
     return data.data;
   } catch (error) {
-    console.log('[FAIL] PUT My Page Data', error);
+    // console.log('[FAIL] PUT My Page Data', error);
   }
 };

@@ -97,7 +97,7 @@ const UserInfo = ({
         preview: reader.result,
       });
       saveProfileImg(data);
-      console.log(data);
+      // console.log(data);
     };
   };
 
