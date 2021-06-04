@@ -34,7 +34,7 @@ const MyPageHeaderContainer = ({ saved, setSaved }) => {
           }
         }
         const result = await updateMyPageData(formData);
-        console.log(result);
+        // console.log(result);
         const newData = await getMyPageData();
         saveProfileImg(newData.profileImg);
         setSaved(false);
