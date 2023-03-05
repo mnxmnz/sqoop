@@ -1,14 +1,18 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/55784772/103595413-af25f880-4f3e-11eb-8821-8119d6b213cb.gif" alt="Logo" width="150" height="150">
+    <br />
+    <h1 align="center">sqoop</h1>
+    <p align="center">질문을 통해 돌아보는 대학생 경험 정리 가이드</p>
+    <br />
+    <p align="center">
+        <a href="https://youtu.be/RW2UhtJsazM">Promotional Video</a>
+        ·
+        <a href="https://drive.google.com/file/d/1ITXltZXabLJ2drhkhHRwUt31j1TX_VbS/view?usp=share_link">Final Presentation</a>
+    </p align="center">
 </p>
 
-<h2 align="center">sqoop</h2>
-
-<br>
-
-## 📑 프로젝트 소개
-
-🥄 질문을 통해 돌아보는 대학생 경험 정리 가이드 웹 서비스입니다.
+<br />
+<br />
 
 ## ✨ 주요 기능
 
